@@ -1,4 +1,4 @@
-
+print('NEW GAME')
 choce1 =input('where do you want to go : ').lower()
 if choce1=='left':
   choce2=  input(" you come to a lake this is island type do you wait a bote or swime to across :  ").lower()
